@@ -1,6 +1,6 @@
 # DevTools Hub 🛠️
 
-> Um canivete suíço profissional para desenvolvedores — formatador, diff viewer, gerador de .gitignore, e mais.
+> Um canivete suíço profissional para desenvolvedores formatador, diff viewer, gerador de .gitignore, e mais.
 
 ## Stack
 

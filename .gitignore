@@ -1,4 +1,4 @@
-node_modules
+# TypeScript
+tsconfig.tsbuildinfo
 .next
-.env
-.env.local
+node_modules
